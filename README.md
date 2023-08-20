@@ -18,4 +18,4 @@ Al momento, lo studio è ancora in corso e non possiamo divulgare i suoi obietti
 Ti chiediamo di tornare a visitare questa pagina tra qualche giorno e potrai trovare un documento scaricabile che spiega di che cosa si occupa questo progetto e come i tuoi dati saranno usati (inclusi, se hai deciso di condividere con noi il tuo username, quelli provenienti dal tuo account X - prima Twitter). Purtroppo, ti avvisiamo già da ora che il suddetto documento sarà disponibile solo in inglese, ma provvederemo a rendere disponibile una versione riassuntiva in italiano.
 
 
-#### Author: Fabio Torreggiani - University of Milan
+#### Author: Fabio Torreggiani - University of Milan - fabio.torreggiani@unimi.it
