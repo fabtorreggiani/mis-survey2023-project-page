@@ -1,7 +1,7 @@
 # Survey on Online News
 (Versione italiana più sotto.)
 
-<a href="https://fabtorreggiani.github.io/mis-survey2023-project-page/results-ita.html" target="_blank">TEST</a>
+<a href="https://fabtorreggiani.github.io/mis-survey2023-project-page/result-ita.html" target="_blank">TEST</a>
 
 ## US VERSION
 
